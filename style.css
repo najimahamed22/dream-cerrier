@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+
+}
+
+/* header css */
+.header-tag {
+    background-image: url(images/banner/banner2.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 216px;
+    padding-right: 200px;
+    text-align: right;
+}
+
+.header-title {
+    font-size: 60px;
+    font-family: 'Work Sans';
+    font-style: normal;
+}
+
+.header-description {
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.header-btn {
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background: #F15B22;
+}
+
+/* Main tag */
+.main-content {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 80px;
+    gap: 100px;
+    text-align: left;
+    padding-right: 200px;
+}
+
+.main-sub-content1 {
+    height: 725px;
+    width: 570px;
+}
+
+.content-title {
+    padding-top: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: left;
+    text-decoration: solid;
+}
+
+.content-description {
+    font-size: 16px;
+    margin-top: 20px;
+    text-decoration: solid;
+    margin-bottom: 20px;
+}
+
+.h-cheak {
+    padding-top: 10px;
+}
+
+.failur-content {
+    font-size: 25px;
+}
+
+i {
+    color: rgb(16, 210, 16);
+}
+
+/* Main plan */
+.plan-title {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+.sub-plan {
+    display: flex;
+    gap: 60px;
+    padding-top: 30px;
+    padding-left: 230px;
+    padding-right: 230px;
+}
+
+.plan-img {
+    padding: 22px;
+}
+
+.h1-size {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p-size {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+/* main liner css */
+.main-liner {
+    margin-left: 190px;
+    height: 30vh;
+    width: 65%;
+    background: linear-gradient(to left, rgba(255, 0, 0, 0), rgba(255, 0, 0, 1)), url(/images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    margin-top: 90px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 100px;
+}
+
+.liner-title {
+    padding-top: 30px;
+    font-family: 'Work Sans';
+    font-size: 30px;
+}
+
+.main-sec-btn {
+    margin-top: 15px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background: rgb(1, 29, 237);
+    border: none;
+    padding: 10px;
+}
+
+/* blog css */
+.blog-post {
+    margin-top: 20px;
+    font-size: 150px;
+    background-color: #F15B22;
+    text-align: center;
+}
+
+
+.blog {
+    display: flex;
+}
+
+.blog-item {
+    padding: 20px;
+}
+
+.blog-heading {
+    font-size: 40px;
+
+}
+
+.blog-description {
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.blog-btn {
+    color: #151414;
+    background-color: chartreuse;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+
+/* footer css */
+.footer-contact {
+    display: flex;
+    margin-top: 50px;
+    color: white;
+    gap: 100px;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-bottom: 100px;
+    background-color: black;
+}
+
+.footer-title {
+    font-size: 70px;
+}
+
+.div-description {
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+
+.contact-title {
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+.email-btn {
+    margin-top: 30px;
+    background-color: #151414;
+    border-color: #fff;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.footer-btn {
+    margin-top: 20px;
+    font-size: 30px;
+    padding: 15px;
+    border-radius: 5px;
+    color: rgb(249, 255, 255);
+    background-color: #F15B22;
+}
+
+.img-icon {
+    display: flex;
+    gap: 18px;
+}
